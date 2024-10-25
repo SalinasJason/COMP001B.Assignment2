@@ -37,7 +37,6 @@ p {
 	border-style: solid;
 	padding: 2em;
 	color: red;
-
 }
 
 .clear {
@@ -45,11 +44,13 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	border-style: solid;
+	padding: 2em;
+	color: red;
 }
 
 .record-label {
-
+	color: red;
 }
 
 .track-list {
