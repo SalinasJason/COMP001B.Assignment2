@@ -34,6 +34,9 @@ p {
 }
 
 .album-art {
+	border-style: solid;
+	padding: 2em;
+	color: red;
 
 }
 
