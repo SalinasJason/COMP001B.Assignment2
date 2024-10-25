@@ -58,12 +58,15 @@ p {
 
 .track-list {
 	list-style: square;
+	color: white;
 }
 
 #about-photo {
 	border-style: double;
 	padding: 1em;
-	color: red;
+	color: darkred;
+	float: left;
+	margin: 1em;
 }
 
 #copyright {
@@ -74,9 +77,14 @@ p {
 	border-style: double;
 	margin: 1em;
 	padding: 1em;
-	color: red;
+	color: darkred;
 }
 
 #text-intro {
-	
+	color: red;
+	background-color: rgba(128, 128, 128, 0.541);
+	border-style: solid;
+	padding: 1em;
+	margin: 1em;
+	margin-bottom: 2em
 }
