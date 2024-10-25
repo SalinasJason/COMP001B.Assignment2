@@ -39,21 +39,26 @@ p {
 	border-style: solid;
 	padding: 2em;
 	color: red;
+	float: left;
+	margin: 2em
 }
 
 .clear {
 	clear: both;
-
 }
 
 .image-electronics, .image-stage-effects {
 	border-style: solid;
 	padding: 2em;
 	color: red;
+	float: left;
+	margin: 2em;
 }
 
 .record-label {
 	color: red;
+	font-style: italic;
+	
 }
 
 .track-list {
@@ -64,20 +69,25 @@ p {
 #about-photo {
 	border-style: double;
 	padding: 1em;
-	color: darkred;
+	color: red;
 	float: left;
 	margin: 1em;
 }
 
 #copyright {
-
+	color: red;
+	margin-top: 2em;
 }
 
 #section-about, #section-discography, #section-equipment {
 	border-style: double;
 	margin: 1em;
 	padding: 1em;
-	color: darkred;
+	color: red;
+}
+
+#section-equipment {
+	margin-top: 2em;
 }
 
 #text-intro {
